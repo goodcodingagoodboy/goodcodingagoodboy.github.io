@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am **Hao Zhang**, currently with the College of Biomedical Engineering and Technology Innovation at Fudan University, supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
+I am **Hao Zhang**, currently with the College of Biomedical Engineering and Technology Innovation at Fudan University, supervised by [Zeju Li (李泽榉)](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang (张礼)](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en) and [Daoqiang Zhang (张道强)](https://scholar.google.com/citations?user=6zCAGLcAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan (闫柯)](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
 
 My research focuses on **brain disease diagnosis and brain network analysis**, as well as **vision-language models for medical imaging**.
 
@@ -26,7 +26,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
     <div class="resume-card__date">Sep. 2026 – Present</div>
     <strong>Fudan University</strong> · Graduate Student<br>
     College of Biomedical Engineering and Technology Innovation<br>
-    Supervisor: <a href="https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra">Zeju Li</a>
+    Supervisor: <a href="https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra">Zeju Li (李泽榉)</a>
   </div>
 </div>
 
@@ -36,7 +36,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
     <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
     <strong>Nanjing Forestry University</strong> · Undergraduate Student<br>
     College of Information Science and Technology &amp; Artificial Intelligence<br>
-    Supervisors: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a> and <a href="https://scholar.google.com/citations?user=6zCAGLcAAAAJ&hl=en">Daoqiang Zhang</a>
+    Supervisors: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang (张礼)</a> and <a href="https://scholar.google.com/citations?user=6zCAGLcAAAAJ&hl=en">Daoqiang Zhang (张道强)</a>
   </div>
 </div>
 
@@ -48,10 +48,9 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
   <div class="resume-card__logo"><img src="/images/damo_academy.png" alt="Alibaba DAMO Academy logo"></div>
   <div class="resume-card__body">
     <div class="resume-card__date">Oct. 2025 – Sep. 2026</div>
-    <strong>Alibaba DAMO Academy</strong><br>
+    <strong>Alibaba DAMO Academy</strong> · Research Intern<br>
     Medical Artificial Intelligence Laboratory<br>
-    Research Intern<br>
-    Supervisor: <a href="https://scholar.google.com/citations?user=TVGx4KgAAAAJ">Ke Yan</a>
+    Supervisor: <a href="https://scholar.google.com/citations?user=TVGx4KgAAAAJ">Ke Yan (闫柯)</a>
   </div>
 </div>
 
@@ -102,7 +101,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">MICCAI 2025</div>
+      <div class="badge">MICCAI 2025 (Early Accept)</div>
       <img src="/images/miccai2025_framework.png" alt="Framework of multi-view graph contrastive learning with dynamic topology augmentation">
     </div>
   </div>

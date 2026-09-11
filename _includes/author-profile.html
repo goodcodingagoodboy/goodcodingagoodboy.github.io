@@ -23,7 +23,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {% if author.employer_url %}<a href="{{ author.employer_url }}">{{ author.employer }}</a>{% else %}{{ author.employer }}{% endif %}</li>
+        <li class="author__employer"><i class="fa fa-fw fa-university" aria-hidden="true"></i>{% if author.employer_url %}<a href="{{ author.employer_url }}">{{ author.employer }}</a>{% else %}<span>{{ author.employer }}</span>{% endif %}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
