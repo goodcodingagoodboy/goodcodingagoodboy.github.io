@@ -61,8 +61,8 @@ My research focuses on the application of **multimodal data in medical agents**.
 <div class="scroll-list" markdown="1">
 
 - **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at Fudan University.
-- **2026** — Our work on graph-level contrastive learning for brain disorder diagnosis was published in *Neural Networks*.
-- **2025** — Our work on multi-view graph contrastive learning was published at MICCAI 2025.
+- **2025.12** — Our work on graph-level contrastive learning for brain disorder diagnosis was accepted by *Neural Networks*.
+- **2025.06** — Our work on multi-view graph contrastive learning received <span class="publication-accent">early acceptance</span> at MICCAI 2025.
 
 </div>
 
@@ -70,8 +70,9 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Honors
 
+- **2026.06** — Outstanding Graduate, Nanjing Forestry University
+- **2026** — Outstanding Undergraduate Thesis, Nanjing Forestry University
 - **2023, 2024, 2025** — First-Class Scholarship, Nanjing Forestry University
-- **2026** — Outstanding Graduate and Outstanding Undergraduate Thesis, Nanjing Forestry University
 
 <span class="anchor" id="publications"></span>
 
@@ -114,7 +115,7 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 <i>Medical Image Computing and Computer Assisted Intervention (<span class="publication-accent">MICCAI</span>), 2025 · <span class="publication-accent">Early Accept</span></i>
 
-[[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[DOI](https://doi.org/10.1007/978-3-032-05162-2_51)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
+[[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
 
   </div>
 </div>
@@ -123,5 +124,5 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Competitions
 
-- **2025** — Finalist (Top 1.25%), Mathematical Contest in Modeling (MCM)
-- National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition — National Finals
+- **2025.05** — Mathematical Contest in Modeling (MCM), Finalist (<span class="publication-accent">Top 1.25%</span>)
+- **2024.12** — Global Campus Artificial Intelligence Algorithm Elite Competition, National Second Prize
