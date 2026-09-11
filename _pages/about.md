@@ -61,8 +61,8 @@ My research focuses on the application of **multimodal data in medical agents**.
 <div class="scroll-list" markdown="1">
 
 - **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at Fudan University.
-- **2025.12** — Our work on graph-level contrastive learning for brain disorder diagnosis was accepted by *Neural Networks*.
-- **2025.06** — Our work on multi-view graph contrastive learning received <span class="publication-accent">early acceptance</span> at MICCAI 2025.
+- **Dec. 2025** — Our work on graph contrastive learning with topology brain augmentation was accepted by *Neural Networks*.
+- **Jun. 2025** — Our work on multi-view graph contrastive learning received <span class="publication-accent">early acceptance</span> at MICCAI 2025.
 
 </div>
 
@@ -70,9 +70,9 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Honors
 
-- **2026.06** — Outstanding Graduate, Nanjing Forestry University
-- **2026** — Outstanding Undergraduate Thesis, Nanjing Forestry University
-- **2023, 2024, 2025** — First-Class Scholarship, Nanjing Forestry University
+- **Jun. 2026** — Outstanding Graduate, Nanjing Forestry University
+- **Jun. 2026** — Outstanding Undergraduate Thesis, Nanjing Forestry University
+- **Dec. 2025, Dec. 2024, Dec. 2023** — First-Class Scholarship, Nanjing Forestry University
 
 <span class="anchor" id="publications"></span>
 
@@ -124,5 +124,5 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Competitions
 
-- **2025.05** — Mathematical Contest in Modeling (MCM), Finalist (<span class="publication-accent">Top 1.25%</span>)
-- **2024.12** — Global Campus Artificial Intelligence Algorithm Elite Competition, National Second Prize
+- **May 2025** — Mathematical Contest in Modeling (MCM), Finalist (<span class="publication-accent">Top 1.25%</span>)
+- **Dec. 2024** — Global Campus Artificial Intelligence Algorithm Elite Competition, National Second Prize
