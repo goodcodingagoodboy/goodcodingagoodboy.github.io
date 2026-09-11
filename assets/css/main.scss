@@ -57,7 +57,10 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            padding: .65rem;
+            background: #fff;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, .2);
+            box-sizing: border-box;
             object-fit: cover;
         }
     }
@@ -126,20 +129,15 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex: 0 0 8.5rem;
-    width: 8.5rem;
-    height: 5.25rem;
-    padding: .6rem;
-    background: #fff;
-    border: 1px solid #ededed;
-    border-radius: .35rem;
-    box-sizing: border-box;
+    flex: 0 0 10rem;
+    width: 10rem;
+    height: 5.5rem;
 }
 
 .resume-card__logo img {
     display: block;
-    width: 7.25rem;
-    height: 3.8rem;
+    width: 9.5rem;
+    height: 5rem;
     object-fit: contain;
 }
 
@@ -156,6 +154,18 @@ h1:before, .anchor:before {
 .empty-section {
     min-height: 1.5rem;
     border-bottom: 1px solid #f3f3f3;
+}
+
+.publication-note {
+    margin-bottom: .25rem;
+    color: #666;
+    font-size: .85em;
+}
+
+.publication-accent {
+    color: #c62828;
+    font-style: italic;
+    font-weight: 600;
 }
 
 @media (max-width: 600px) {

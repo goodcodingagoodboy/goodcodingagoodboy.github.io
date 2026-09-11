@@ -76,6 +76,8 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 # Publications
 
+<div class="publication-note"><sup>*</sup>: First Author, <sup>†</sup>: Corresponding Author(s)</div>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -87,9 +89,9 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 **Graph-level Contrastive Learning with Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis Using rs-fMRI**
 
-**Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan, Daoqiang Zhang, and Li Zhang
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan<sup>†</sup>, Daoqiang Zhang<sup>†</sup>, and Li Zhang<sup>†</sup>
 
-*Neural Networks*, 196:108379, 2026
+<i>Neural Networks, 2026</i>
 
 [[Paper](https://doi.org/10.1016/j.neunet.2025.108379)]
 
@@ -107,9 +109,9 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 **Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis**
 
-**Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yonggui Yuan, Daoqiang Zhang, and Li Zhang
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yonggui Yuan<sup>†</sup>, Daoqiang Zhang<sup>†</sup>, and Li Zhang<sup>†</sup>
 
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, LNCS 15971, pp. 532–542, 2025
+<i>Medical Image Computing and Computer Assisted Intervention (<span class="publication-accent">MICCAI</span>), 2025 · <span class="publication-accent">Early Accept</span></i>
 
 [[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[DOI](https://doi.org/10.1007/978-3-032-05162-2_51)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
 
