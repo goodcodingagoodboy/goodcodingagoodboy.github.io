@@ -12,36 +12,28 @@ redirect_from:
 
 # About Me
 
-I am **Hao Zhang**, currently with the School of Biomedical Engineering and Technology Innovation at Fudan University, supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
+I am **Hao Zhang**, currently with the College of Biomedical Engineering and Technology Innovation at [Fudan University](https://www.fudan.edu.cn/), supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
 
 My research focuses on **brain disease diagnosis and brain network analysis**, as well as **vision-language models for medical imaging**.
-
-[Google Scholar](https://scholar.google.com/citations?user=Ul2nnT8AAAAJ&hl=en) · [GitHub](https://github.com/goodcodingagoodboy) · [zhang_h26@m.fudan.edu.cn](mailto:zhang_h26@m.fudan.edu.cn) · [hao.zhang.medai@gmail.com](mailto:hao.zhang.medai@gmail.com)
-
-### Academic Services
-
-<div class="empty-section" aria-label="Academic services to be updated"></div>
-
-### Academic Communities
-
-<div class="empty-section" aria-label="Academic communities to be updated"></div>
 
 <span class="anchor" id="education"></span>
 
 # Education
 
 <div class="resume-card">
-  <div class="resume-card__date">Sep. 2026 – Present</div>
+  <div class="resume-card__logo"><img src="/images/fudan_university.png" alt="Fudan University logo"></div>
   <div class="resume-card__body">
-    <strong>Fudan University</strong><br>
-    School of Biomedical Engineering and Technology Innovation<br>
+    <div class="resume-card__date">Sep. 2026 – Present</div>
+    <strong><a href="https://www.fudan.edu.cn/">Fudan University</a></strong><br>
+    College of Biomedical Engineering and Technology Innovation<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra">Zeju Li</a>
   </div>
 </div>
 
 <div class="resume-card">
-  <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
+  <div class="resume-card__logo"><img src="/images/nanjing_forestry_university.png" alt="Nanjing Forestry University logo"></div>
   <div class="resume-card__body">
+    <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
     <strong>Nanjing Forestry University</strong><br>
     College of Information Science and Technology &amp; Artificial Intelligence<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a>
@@ -53,8 +45,9 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 # Experience
 
 <div class="resume-card">
-  <div class="resume-card__date">Oct. 2025 – Sep. 2026</div>
+  <div class="resume-card__logo"><img src="/images/damo_academy.png" alt="Alibaba DAMO Academy logo"></div>
   <div class="resume-card__body">
+    <div class="resume-card__date">Oct. 2025 – Sep. 2026</div>
     <strong>Alibaba DAMO Academy</strong><br>
     Research Intern<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=TVGx4KgAAAAJ">Ke Yan</a>
@@ -67,7 +60,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 <div class="scroll-list" markdown="1">
 
-- **Sep. 2026** — Joined the School of Biomedical Engineering and Technology Innovation at Fudan University.
+- **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at [Fudan University](https://www.fudan.edu.cn/).
 - **2026** — Our work on graph-level contrastive learning for brain disorder diagnosis was published in *Neural Networks*.
 - **2025** — Our work on multi-view graph contrastive learning was published at MICCAI 2025.
 
@@ -127,10 +120,4 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 # Competitions
 
-### International &amp; National Prizes
-
-<div class="empty-section" aria-label="International and national prizes to be updated"></div>
-
-### Regional &amp; Provincial Prizes
-
-<div class="empty-section" aria-label="Regional and provincial prizes to be updated"></div>
+<div class="empty-section" aria-label="Competitions to be updated"></div>

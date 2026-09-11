@@ -110,15 +110,29 @@ h1:before, .anchor:before {
 
 .resume-card {
     display: flex;
+    align-items: center;
     gap: 1.5rem;
     padding: 1.15rem 0;
     border-bottom: 1px solid #efefef;
 }
 
 .resume-card__date {
-    flex: 0 0 10.5rem;
     color: #555;
     font-weight: 600;
+    margin-bottom: .35rem;
+}
+
+.resume-card__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 10rem;
+}
+
+.resume-card__logo img {
+    width: 100%;
+    max-height: 5.5rem;
+    object-fit: contain;
 }
 
 .resume-card__body {
@@ -143,5 +157,11 @@ h1:before, .anchor:before {
 
     .resume-card__date {
         margin-bottom: .35rem;
+    }
+
+    .resume-card__logo {
+        justify-content: flex-start;
+        width: 10rem;
+        margin-bottom: .75rem;
     }
 }
