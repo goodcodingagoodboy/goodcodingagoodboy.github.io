@@ -70,7 +70,8 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Honors
 
-<div class="empty-section" aria-label="Honors to be updated"></div>
+- **2023, 2024, 2025** — First-Class Scholarship, Nanjing Forestry University
+- **2026** — Outstanding Graduate and Outstanding Undergraduate Thesis, Nanjing Forestry University
 
 <span class="anchor" id="publications"></span>
 
@@ -122,4 +123,5 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 # Competitions
 
-<div class="empty-section" aria-label="Competitions to be updated"></div>
+- **2025** — Finalist (Top 1.25%), Mathematical Contest in Modeling (MCM)
+- National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition — National Finals
