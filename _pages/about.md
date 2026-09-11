@@ -36,7 +36,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
     <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
     <strong>Nanjing Forestry University</strong> · Undergraduate Student<br>
     College of Information Science and Technology &amp; Artificial Intelligence<br>
-    Supervisor: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a>
+    Supervisors: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a> and <a href="https://scholar.google.com/citations?user=6zCAGLcAAAAJ&hl=en">Daoqiang Zhang</a>
   </div>
 </div>
 
@@ -49,6 +49,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
   <div class="resume-card__body">
     <div class="resume-card__date">Oct. 2025 – Sep. 2026</div>
     <strong>Alibaba DAMO Academy</strong><br>
+    Medical Artificial Intelligence Laboratory<br>
     Research Intern<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=TVGx4KgAAAAJ">Ke Yan</a>
   </div>
