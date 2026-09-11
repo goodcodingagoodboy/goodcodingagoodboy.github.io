@@ -1,0 +1,56 @@
+name: Import and personalize AcadHomepage
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-template:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out homepage repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Import template and apply profile settings
+        shell: bash
+        run: |
+          set -euo pipefail
+          tmp_dir="$(mktemp -d)"
+          git clone --depth 1 https://github.com/RayeRen/acad-homepage.github.io.git "$tmp_dir/template"
+          rm -rf "$tmp_dir/template/.git"
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name .github -exec rm -rf {} +
+          cp -R "$tmp_dir/template"/. .
+          python3 - <<'PY'
+          from pathlib import Path
+          config_path = Path("_config.yml")
+          config = config_path.read_text(encoding="utf-8")
+          replacements = {
+              'title                    : "Lorem ipsum"': 'title                    : "Hao Zhang | Academic Homepage"',
+              'description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "': 'description              : "Personal academic homepage of Hao Zhang."',
+              'repository               : "RayeRen/acad-homepage.github.io"': 'repository               : "goodcodingagoodboy/goodcodingagoodboy.github.io"',
+              'google_scholar_stats_use_cdn : true': 'google_scholar_stats_use_cdn : false',
+              '  name             : "Lorem ipsum"': '  name             : "Hao Zhang"',
+              '  avatar           : "images/android-chrome-512x512.png"': '  avatar           : "https://avatars.githubusercontent.com/u/148456242?v=4"',
+              '  bio              : "Lorem ipsum College"': '  bio              : "Academic Profile"',
+              '  location         : "Beijing, China"': '  location         :',
+              '  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"': '  googlescholar    :',
+              '  email            : "Lorem@ipsum.com"': '  email            :',
+              '  github           : # e.g., "github username"': '  github           : "goodcodingagoodboy"',
+          }
+          for old, new in replacements.items():
+              if old not in config:
+                  raise SystemExit(f"Expected template setting not found: {old}")
+              config = config.replace(old, new)
+          config_path.write_text(config, encoding="utf-8")
+          PY
+          printf '%s' 'LS0tCnBlcm1hbGluazogLwp0aXRsZTogIiIKZXhjZXJwdDogIiIKYXV0aG9yX3Byb2ZpbGU6IHRydWUKcmVkaXJlY3RfZnJvbToKICAtIC9hYm91dC8KICAtIC9hYm91dC5odG1sCi0tLQoKPHNwYW4gY2xhc3M9J2FuY2hvcicgaWQ9J2Fib3V0LW1lJz48L3NwYW4+CgojIEFib3V0IE1lCgpXZWxjb21lISBJIGFtICoqSGFvIFpoYW5nKiouIFRoaXMgd2Vic2l0ZSBpcyBteSBhY2FkZW1pYyBob21lcGFnZSBhbmQgd2lsbCBob3N0IG15IHJlc2VhcmNoIGludGVyZXN0cywgcHVibGljYXRpb25zLCBwcm9qZWN0cywgYW5kIHByb2Zlc3Npb25hbCBleHBlcmllbmNlLgoKTXkgZGV0YWlsZWQgYWNhZGVtaWMgcHJvZmlsZSBpcyBjdXJyZW50bHkgYmVpbmcgb3JnYW5pemVkLiBJbiB0aGUgbWVhbnRpbWUsIHlvdSBjYW4gZmluZCBteSBwdWJsaWMgcHJvamVjdHMgb24gW0dpdEh1Yl0oaHR0cHM6Ly9naXRodWIuY29tL2dvb2Rjb2RpbmdhZ29vZGJveSkuCgojIFJlc2VhcmNoCgpSZXNlYXJjaCBpbnRlcmVzdHMgYW5kIGN1cnJlbnQgcHJvamVjdHMgd2lsbCBiZSBhZGRlZCBoZXJlLgoKIyBQdWJsaWNhdGlvbnMKClNlbGVjdGVkIHB1YmxpY2F0aW9ucyBhbmQgcHJlcHJpbnRzIHdpbGwgYmUgYWRkZWQgaGVyZS4KCiMgRWR1Y2F0aW9uICYgRXhwZXJpZW5jZQoKRWR1Y2F0aW9uLCByZXNlYXJjaCBleHBlcmllbmNlLCBhbmQgYWNhZGVtaWMgYXBwb2ludG1lbnRzIHdpbGwgYmUgYWRkZWQgaGVyZS4KCiMgSG9ub3JzICYgQWN0aXZpdGllcwoKSG9ub3JzLCBhd2FyZHMsIHRhbGtzLCBhbmQgYWNhZGVtaWMgc2VydmljZSB3aWxsIGJlIGFkZGVkIGhlcmUuCg==' | base64 --decode > _pages/about.md
+          rm -f .github/workflows/google_scholar_crawler.yaml
+          git config user.name "Hao Zhang"
+          git config user.email "148456242+goodcodingagoodboy@users.noreply.github.com"
+          git add -A
+          git commit -m "Import AcadHomepage template and personalize site"
+          git push origin main
