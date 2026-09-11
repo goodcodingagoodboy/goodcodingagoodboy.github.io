@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Zhang"
   avatar           : "https://avatars.githubusercontent.com/u/148456242?v=4"
-  bio              : "Academic Profile"
-  location         :
-  employer         :
+  bio              : "Brain Disease Diagnosis · Medical Vision-Language Models"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   pubmed           : 
-  googlescholar    :
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=Ul2nnT8AAAAJ&hl=en"
+  email            : "zhang_h26@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

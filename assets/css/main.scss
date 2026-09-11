@@ -107,3 +107,41 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.resume-card {
+    display: flex;
+    gap: 1.5rem;
+    padding: 1.15rem 0;
+    border-bottom: 1px solid #efefef;
+}
+
+.resume-card__date {
+    flex: 0 0 10.5rem;
+    color: #555;
+    font-weight: 600;
+}
+
+.resume-card__body {
+    flex: 1;
+}
+
+.scroll-list {
+    max-height: 16rem;
+    overflow-y: auto;
+    padding-right: .75rem;
+}
+
+.empty-section {
+    min-height: 1.5rem;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+@media (max-width: 600px) {
+    .resume-card {
+        display: block;
+    }
+
+    .resume-card__date {
+        margin-bottom: .35rem;
+    }
+}

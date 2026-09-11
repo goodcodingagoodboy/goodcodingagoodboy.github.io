@@ -8,40 +8,129 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
 # About Me
 
 I am **Hao Zhang**, currently with the School of Biomedical Engineering and Technology Innovation at Fudan University, supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
 
-My research interests include **brain disease diagnosis and brain network analysis**, as well as **vision-language models for medical imaging**.
+My research focuses on **brain disease diagnosis and brain network analysis**, as well as **vision-language models for medical imaging**.
 
 [Google Scholar](https://scholar.google.com/citations?user=Ul2nnT8AAAAJ&hl=en) · [GitHub](https://github.com/goodcodingagoodboy) · [zhang_h26@m.fudan.edu.cn](mailto:zhang_h26@m.fudan.edu.cn) · [hao.zhang.medai@gmail.com](mailto:hao.zhang.medai@gmail.com)
 
-<span class='anchor' id='research'></span>
+### Academic Services
 
-# Research Interests
+<div class="empty-section" aria-label="Academic services to be updated"></div>
 
-- Brain disease diagnosis and brain network analysis
-- Vision-language models for medical imaging
+### Academic Communities
 
-<span class='anchor' id='publications'></span>
+<div class="empty-section" aria-label="Academic communities to be updated"></div>
 
-# Publications
-
-1. **Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan, Daoqiang Zhang, and Li Zhang. “Graph-level contrastive learning with self-aware and cross-sample topology augmentation for brain disorder diagnosis using rs-fMRI.” *Neural Networks*, 196:108379, 2026. [[Paper](https://doi.org/10.1016/j.neunet.2025.108379)]
-
-2. **Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yonggui Yuan, Daoqiang Zhang, and Li Zhang. “Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis.” *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, LNCS 15971, pp. 532–542, 2025. [[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[DOI](https://doi.org/10.1007/978-3-032-05162-2_51)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
-
-<span class='anchor' id='education'></span>
+<span class="anchor" id="education"></span>
 
 # Education
 
-- **Sep. 2026 – Present**, School of Biomedical Engineering and Technology Innovation, Fudan University. Supervisor: [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra).
-- **Sep. 2022 – Jun. 2026**, College of Information Science and Technology & Artificial Intelligence, Nanjing Forestry University. Supervisor: [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en).
+<div class="resume-card">
+  <div class="resume-card__date">Sep. 2026 – Present</div>
+  <div class="resume-card__body">
+    <strong>Fudan University</strong><br>
+    School of Biomedical Engineering and Technology Innovation<br>
+    Supervisor: <a href="https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra">Zeju Li</a>
+  </div>
+</div>
 
-<span class='anchor' id='experience'></span>
+<div class="resume-card">
+  <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
+  <div class="resume-card__body">
+    <strong>Nanjing Forestry University</strong><br>
+    College of Information Science and Technology &amp; Artificial Intelligence<br>
+    Supervisor: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a>
+  </div>
+</div>
 
-# Research Experience
+<span class="anchor" id="experience"></span>
 
-- **Oct. 2025 – Sep. 2026**, Research Intern, Alibaba DAMO Academy. Supervisor: [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
+# Experience
+
+<div class="resume-card">
+  <div class="resume-card__date">Oct. 2025 – Sep. 2026</div>
+  <div class="resume-card__body">
+    <strong>Alibaba DAMO Academy</strong><br>
+    Research Intern<br>
+    Supervisor: <a href="https://scholar.google.com/citations?user=TVGx4KgAAAAJ">Ke Yan</a>
+  </div>
+</div>
+
+<span class="anchor" id="news"></span>
+
+# News
+
+<div class="scroll-list" markdown="1">
+
+- **Sep. 2026** — Joined the School of Biomedical Engineering and Technology Innovation at Fudan University.
+- **2026** — Our work on graph-level contrastive learning for brain disorder diagnosis was published in *Neural Networks*.
+- **2025** — Our work on multi-view graph contrastive learning was published at MICCAI 2025.
+
+</div>
+
+<span class="anchor" id="honors"></span>
+
+# Honors
+
+<div class="empty-section" aria-label="Honors to be updated"></div>
+
+<span class="anchor" id="publications"></span>
+
+# Publications
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Neural Networks 2026</div>
+      <img src="/images/neural_network_framework.png" alt="Framework of graph-level contrastive learning with self-aware and cross-sample topology augmentation">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**Graph-level Contrastive Learning with Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis Using rs-fMRI**
+
+**Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan, Daoqiang Zhang, and Li Zhang
+
+*Neural Networks*, 196:108379, 2026
+
+[[Paper](https://doi.org/10.1016/j.neunet.2025.108379)]
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">MICCAI 2025</div>
+      <img src="/images/miccai2025_framework.png" alt="Framework of multi-view graph contrastive learning with dynamic topology augmentation">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis**
+
+**Hao Zhang**, Xiaoyun Liu, Shuo Huang, Yonggui Yuan, Daoqiang Zhang, and Li Zhang
+
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, LNCS 15971, pp. 532–542, 2025
+
+[[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[DOI](https://doi.org/10.1007/978-3-032-05162-2_51)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
+
+  </div>
+</div>
+
+<span class="anchor" id="competitions"></span>
+
+# Competitions
+
+### International &amp; National Prizes
+
+<div class="empty-section" aria-label="International and national prizes to be updated"></div>
+
+### Regional &amp; Provincial Prizes
+
+<div class="empty-section" aria-label="Regional and provincial prizes to be updated"></div>
