@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am **Hao Zhang**, currently with the College of Biomedical Engineering and Technology Innovation at [Fudan University](https://www.fudan.edu.cn/), supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
+I am **Hao Zhang**, currently with the College of Biomedical Engineering and Technology Innovation at Fudan University, supervised by [Zeju Li](https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra). Previously, I studied at Nanjing Forestry University under the supervision of [Li Zhang](https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en), and worked as a research intern at Alibaba DAMO Academy supervised by [Ke Yan](https://scholar.google.com/citations?user=TVGx4KgAAAAJ).
 
 My research focuses on **brain disease diagnosis and brain network analysis**, as well as **vision-language models for medical imaging**.
 
@@ -24,7 +24,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
   <div class="resume-card__logo"><img src="/images/fudan_university.png" alt="Fudan University logo"></div>
   <div class="resume-card__body">
     <div class="resume-card__date">Sep. 2026 – Present</div>
-    <strong><a href="https://www.fudan.edu.cn/">Fudan University</a></strong><br>
+    <strong>Fudan University</strong> · Graduate Student<br>
     College of Biomedical Engineering and Technology Innovation<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=zeuflXEAAAAJ&hl=en&oi=sra">Zeju Li</a>
   </div>
@@ -34,7 +34,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
   <div class="resume-card__logo"><img src="/images/nanjing_forestry_university.png" alt="Nanjing Forestry University logo"></div>
   <div class="resume-card__body">
     <div class="resume-card__date">Sep. 2022 – Jun. 2026</div>
-    <strong>Nanjing Forestry University</strong><br>
+    <strong>Nanjing Forestry University</strong> · Undergraduate Student<br>
     College of Information Science and Technology &amp; Artificial Intelligence<br>
     Supervisor: <a href="https://scholar.google.com/citations?user=laB1D0cAAAAJ&hl=en">Li Zhang</a>
   </div>
@@ -60,7 +60,7 @@ My research focuses on **brain disease diagnosis and brain network analysis**, a
 
 <div class="scroll-list" markdown="1">
 
-- **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at [Fudan University](https://www.fudan.edu.cn/).
+- **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at Fudan University.
 - **2026** — Our work on graph-level contrastive learning for brain disorder diagnosis was published in *Neural Networks*.
 - **2025** — Our work on multi-view graph contrastive learning was published at MICCAI 2025.
 

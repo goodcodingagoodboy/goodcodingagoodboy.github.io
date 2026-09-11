@@ -126,12 +126,20 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex: 0 0 10rem;
+    flex: 0 0 8.5rem;
+    width: 8.5rem;
+    height: 5.25rem;
+    padding: .6rem;
+    background: #fff;
+    border: 1px solid #ededed;
+    border-radius: .35rem;
+    box-sizing: border-box;
 }
 
 .resume-card__logo img {
-    width: 100%;
-    max-height: 5.5rem;
+    display: block;
+    width: 7.25rem;
+    height: 3.8rem;
     object-fit: contain;
 }
 
@@ -161,7 +169,6 @@ h1:before, .anchor:before {
 
     .resume-card__logo {
         justify-content: flex-start;
-        width: 10rem;
         margin-bottom: .75rem;
     }
 }
