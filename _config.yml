@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Zhang | Academic Homepage"
-description              : "Personal academic homepage of Hao Zhang."
+description              :
 repository               : "goodcodingagoodboy/goodcodingagoodboy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Zhang"
   avatar           : "https://avatars.githubusercontent.com/u/148456242?v=4"
-  bio              : "medical image analysis"
+  bio              : "AI in Healthcare"
   location         :
   employer         : "Fudan University"
   employer_url     : "https://www.fudan.edu.cn/"
