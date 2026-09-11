@@ -129,8 +129,8 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex: 0 0 32%;
-    width: 32%;
+    flex: 0 0 28%;
+    width: 28%;
     height: 7rem;
 }
 
@@ -172,11 +172,24 @@ h1:before, .anchor:before {
     display: flex !important;
     align-items: center;
     gap: .35rem;
+    min-height: 1.5rem;
+    line-height: 1.5rem;
     white-space: nowrap;
 }
 
 .author__employer i {
     flex: 0 0 auto;
+    margin: 0;
+    line-height: 1.5rem;
+}
+
+.author__employer a {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1.5rem;
 }
 
 @media (max-width: 600px) {
@@ -190,7 +203,7 @@ h1:before, .anchor:before {
 
     .resume-card__logo {
         justify-content: flex-start;
-        width: 45%;
+        width: 42%;
         height: 5.5rem;
         margin-bottom: .75rem;
     }
