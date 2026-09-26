@@ -84,6 +84,24 @@ My research focuses on the application of **multimodal data in medical agents**.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">BIBM 2026</div>
+      <img src="/images/bibm2026_framework.jpg" alt="LiFUSE frequency-spatial unified self-supervised pretraining framework for non-contrast CT">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT**
+
+<b>Hao Zhang</b><sup>*</sup>, Yi Huang, Wei Liu, Yuan Gao, Zeju Li<sup>†</sup>, Han Xu<sup>†</sup>, Yu Shi<sup>†</sup>, Ling Zhang<sup>†</sup>, and Ke Yan<sup>†</sup>
+
+<i>IEEE International Conference on Bioinformatics and Biomedicine (<span class="publication-accent">BIBM</span>), 2026</i>
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge">Neural Networks 2026</div>
       <img src="/images/neural_network_framework.png" alt="Framework of graph-level contrastive learning with self-aware and cross-sample topology augmentation">
     </div>
