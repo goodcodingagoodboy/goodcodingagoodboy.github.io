@@ -2,8 +2,8 @@
   "use strict";
 
   function initFrameworkPreview() {
-    const frameworkImages = document.querySelectorAll(".paper-box-image img");
-    if (!frameworkImages.length) return;
+    const triggers = document.querySelectorAll("[data-framework-preview]");
+    if (!triggers.length) return;
 
     const modal = document.createElement("div");
     modal.className = "framework-modal";
@@ -29,16 +29,19 @@
     modal.appendChild(content);
     document.body.appendChild(modal);
 
-    let triggerImage = null;
+    let trigger = null;
 
     function closeModal() {
       modal.classList.remove("is-open");
       document.body.classList.remove("framework-modal-open");
-      if (triggerImage) triggerImage.focus();
+      if (trigger) trigger.focus();
     }
 
-    function openModal(image) {
-      triggerImage = image;
+    function openModal(nextTrigger) {
+      const image = nextTrigger.querySelector("img");
+      if (!image) return;
+
+      trigger = nextTrigger;
       modalImage.src = image.currentSrc || image.src;
       modalImage.alt = image.alt || "Framework image";
       modal.classList.add("is-open");
@@ -46,21 +49,9 @@
       closeButton.focus();
     }
 
-    frameworkImages.forEach(function (image) {
-      image.classList.add("framework-preview-trigger");
-      image.setAttribute("tabindex", "0");
-      image.setAttribute("role", "button");
-      image.setAttribute("aria-label", "Open enlarged framework image");
-
-      image.addEventListener("click", function () {
-        openModal(image);
-      });
-
-      image.addEventListener("keydown", function (event) {
-        if (event.key === "Enter" || event.key === " ") {
-          event.preventDefault();
-          openModal(image);
-        }
+    triggers.forEach(function (preview) {
+      preview.addEventListener("click", function () {
+        openModal(preview);
       });
     });
 
