@@ -93,8 +93,8 @@
 
 .paper-box-image .framework-preview {
     position: relative;
-    display: block;
-    width: auto;
+    display: inline-block;
+    width: fit-content;
     padding: 0;
     border: 0;
     background: transparent;
@@ -104,6 +104,7 @@
     cursor: zoom-in;
     transform-origin: center;
     transition: transform .22s ease;
+    will-change: transform;
 }
 
 .paper-box-image .framework-preview img {
@@ -115,7 +116,7 @@
 .paper-box-image .framework-preview:focus-visible {
     z-index: 2;
     outline: none;
-    transform: scale(1.045);
+    transform: scale(1.07);
 }
 
 .paper-box-image .framework-preview:hover img,
