@@ -60,10 +60,10 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 <div class="scroll-list" markdown="1">
 
-- **Sep. 2026** — Our work on self-supervised pretraining for non-contrast CT was accepted by *BIBM 2026*.
+- **Sep. 2026** — Our work on self-supervised pretraining for non-contrast CT was accepted by <span class="publication-accent"><strong><em>BIBM 2026</em></strong></span>.
 - **Sep. 2026** — Joined the College of Biomedical Engineering and Technology Innovation at Fudan University.
-- **Dec. 2025** — Our work on graph contrastive learning with topology brain augmentation was accepted by *Neural Networks*.
-- **Jun. 2025** — Our work on multi-view graph contrastive learning received <span class="publication-accent">early acceptance</span> at MICCAI 2025.
+- **Dec. 2025** — Our work on graph contrastive learning with topology brain augmentation was accepted by <span class="publication-accent"><strong><em>Neural Networks</em></strong></span>.
+- **Jun. 2025** — Our work on multi-view graph contrastive learning received <span class="publication-accent">early acceptance</span> at <span class="publication-accent"><strong><em>MICCAI 2025</em></strong></span>.
 
 </div>
 
