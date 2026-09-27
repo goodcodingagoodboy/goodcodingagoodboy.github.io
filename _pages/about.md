@@ -83,10 +83,10 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <div>
-      <div class="badge">BIBM 2026</div>
+    <button class="framework-preview" type="button" data-framework-preview aria-label="Enlarge LiFUSE framework image">
+      <span class="badge">BIBM 2026</span>
       <img src="/images/bibm2026_framework.jpg" alt="LiFUSE frequency-spatial unified self-supervised pretraining framework for non-contrast CT">
-    </div>
+    </button>
   </div>
   <div class="paper-box-text" markdown="1">
 
@@ -101,10 +101,10 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <div>
-      <div class="badge">Neural Networks 2026</div>
+    <button class="framework-preview" type="button" data-framework-preview aria-label="Enlarge Neural Networks framework image">
+      <span class="badge">Neural Networks 2026</span>
       <img src="/images/neural_network_framework.png" alt="Framework of graph-level contrastive learning with self-aware and cross-sample topology augmentation">
-    </div>
+    </button>
   </div>
   <div class="paper-box-text" markdown="1">
 
@@ -121,10 +121,10 @@ My research focuses on the application of **multimodal data in medical agents**.
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <div>
-      <div class="badge">MICCAI 2025 (Early Accept)</div>
+    <button class="framework-preview" type="button" data-framework-preview aria-label="Enlarge MICCAI framework image">
+      <span class="badge">MICCAI 2025 (Early Accept)</span>
       <img src="/images/miccai2025_framework.png" alt="Framework of multi-view graph contrastive learning with dynamic topology augmentation">
-    </div>
+    </button>
   </div>
   <div class="paper-box-text" markdown="1">
 
