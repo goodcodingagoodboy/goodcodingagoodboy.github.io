@@ -208,6 +208,18 @@ h1:before, .anchor:before {
 }
 
 
+
+.masthead__menu-home-label {
+    display: block;
+    margin-right: 1rem;
+    padding: .5rem 0;
+    color: #333;
+    font-weight: 700;
+    line-height: inherit;
+    cursor: default;
+    user-select: none;
+}
+
 /* Prevent persistent focus outlines after clicking the top navigation. */
 .masthead a:focus,
 .greedy-nav a:focus,
