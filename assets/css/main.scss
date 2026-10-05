@@ -208,13 +208,11 @@ h1:before, .anchor:before {
 }
 
 
-/* Keep keyboard focus visible while matching the site's visual language. */
-.masthead a:focus-visible,
-.greedy-nav a:focus-visible,
-.greedy-nav button:focus-visible {
-    outline: 2px solid #2f6fbb;
-    outline-offset: 3px;
-    border-radius: 3px;
+/* Prevent persistent focus outlines after clicking the top navigation. */
+.masthead a:focus,
+.greedy-nav a:focus,
+.greedy-nav button:focus {
+    outline: none;
 }
 
 .badge {
