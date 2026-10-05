@@ -207,6 +207,16 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+
+/* Keep keyboard focus visible while matching the site's visual language. */
+.masthead a:focus-visible,
+.greedy-nav a:focus-visible,
+.greedy-nav button:focus-visible {
+    outline: 2px solid #2f6fbb;
+    outline-offset: 3px;
+    border-radius: 3px;
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
