@@ -340,3 +340,11 @@ h1:before, .anchor:before {
         height: 5rem;
     }
 }
+
+/* Links open in a new tab; do not retain a click-focus ring. */
+a:focus,
+a:focus-visible,
+a:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
