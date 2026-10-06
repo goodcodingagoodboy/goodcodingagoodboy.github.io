@@ -12,9 +12,13 @@ redirect_from:
 
 # About Me
 
-I am pursuing a master's degree in Biomedical Engineering at the College of Biomedical Engineering and Technology Innovation, Fudan University.
+I am a master’s student in Biomedical Engineering at the College of Biomedical Engineering and Technology Innovation, Fudan University.
 
-My research focuses on the application of **multimodal data in medical agents**. Previously, I worked on **brain disease diagnosis and brain network analysis** and **vision-language models (VLMs) for medical imaging**.
+My current research focuses on **multimodal medical agents**, with an emphasis on integrating medical images and clinical information to support **clinical reasoning and diagnostic decision-making**. I am particularly interested in interactive clinical inquiry and the evaluation of medical agents in realistic clinical scenarios.
+
+Previously, I worked on **brain disease diagnosis and brain network analysis**, as well as **vision-language models (VLMs) for medical imaging**.
+
+I welcome opportunities to collaborate on medical agents, multimodal learning, and AI for healthcare. If you share similar research interests, please feel free to reach out to exchange ideas and explore potential collaborations!
 
 <span class="anchor" id="education"></span>
 
