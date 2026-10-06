@@ -100,6 +100,19 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 <i>IEEE International Conference on Bioinformatics and Biomedicine (<span class="publication-accent">BIBM</span>), 2026</i>
 
+<div class="publication-actions">
+  <button type="button" class="pub-btn" data-bibtex-toggle aria-expanded="false" aria-label="Show LiFUSE BibTeX citation"><i class="fas fa-quote-right" aria-hidden="true"></i><span>BibTeX</span></button>
+</div>
+<div class="pub-bibtex" hidden>
+  <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <pre><code>@inproceedings{zhang2026lifuse,
+  title={LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT},
+  author={Zhang, Hao and Huang, Yi and Liu, Wei and Gao, Yuan and Li, Zeju and Xu, Han and Shi, Yu and Zhang, Ling and Yan, Ke},
+  booktitle={2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2026}
+}</code></pre>
+</div>
+
   </div>
 </div>
 
@@ -118,7 +131,20 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 <i>Neural Networks, 2026</i>
 
-[[Paper](https://doi.org/10.1016/j.neunet.2025.108379)]
+<div class="publication-actions">
+  <a class="pub-btn" href="https://doi.org/10.1016/j.neunet.2025.108379"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+  <button type="button" class="pub-btn" data-bibtex-toggle aria-expanded="false" aria-label="Show Neural Networks paper BibTeX citation"><i class="fas fa-quote-right" aria-hidden="true"></i><span>BibTeX</span></button>
+</div>
+<div class="pub-bibtex" hidden>
+  <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <pre><code>@article{zhang2026graph,
+  title={Graph-level Contrastive Learning with Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis Using rs-fMRI},
+  author={Zhang, Hao and Liu, Xiaoyun and Huang, Shuo and Ma, Yue and Yuan, Yonggui and Zhang, Daoqiang and Zhang, Li},
+  journal={Neural Networks},
+  year={2026},
+  doi={10.1016/j.neunet.2025.108379}
+}</code></pre>
+</div>
 
   </div>
 </div>
@@ -138,7 +164,20 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 <i>Medical Image Computing and Computer Assisted Intervention (<span class="publication-accent">MICCAI</span>), 2025 · <span class="publication-accent">Early Accept</span></i>
 
-[[Paper](https://papers.miccai.org/miccai-2025/0623-Paper2205.html)] [[Code](https://github.com/goodcodingagoodboy/MGCL-DA)]
+<div class="publication-actions">
+  <a class="pub-btn" href="https://papers.miccai.org/miccai-2025/0623-Paper2205.html"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+  <a class="pub-btn" href="https://github.com/goodcodingagoodboy/MGCL-DA"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
+  <button type="button" class="pub-btn" data-bibtex-toggle aria-expanded="false" aria-label="Show MICCAI paper BibTeX citation"><i class="fas fa-quote-right" aria-hidden="true"></i><span>BibTeX</span></button>
+</div>
+<div class="pub-bibtex" hidden>
+  <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <pre><code>@inproceedings{zhang2025multiview,
+  title={Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis},
+  author={Zhang, Hao and Liu, Xiaoyun and Huang, Shuo and Yuan, Yonggui and Zhang, Daoqiang and Zhang, Li},
+  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+  year={2025}
+}</code></pre>
+</div>
 
   </div>
 </div>
