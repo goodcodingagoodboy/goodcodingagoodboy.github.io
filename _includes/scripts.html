@@ -11,3 +11,48 @@
     });
   });
 </script>
+
+<script>
+  (function () {
+    function copyText(text) {
+      if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text);
+      return new Promise(function (resolve, reject) {
+        var area = document.createElement("textarea");
+        area.value = text;
+        area.setAttribute("readonly", "");
+        area.style.position = "fixed";
+        area.style.opacity = "0";
+        document.body.appendChild(area);
+        area.select();
+        var copied = document.execCommand("copy");
+        document.body.removeChild(area);
+        copied ? resolve() : reject();
+      });
+    }
+
+    document.addEventListener("click", function (event) {
+      var toggle = event.target.closest("[data-bibtex-toggle]");
+      if (toggle) {
+        var panel = toggle.closest(".publication-actions").nextElementSibling;
+        if (!panel || !panel.classList.contains("pub-bibtex")) return;
+        var opening = panel.hidden;
+        panel.hidden = !opening;
+        toggle.setAttribute("aria-expanded", String(opening));
+        return;
+      }
+
+      var copy = event.target.closest("[data-bibtex-copy]");
+      if (copy) {
+        var code = copy.parentElement.querySelector("code");
+        copyText(code.textContent).then(function () {
+          copy.classList.add("is-copied");
+          copy.querySelector("span").textContent = "Copied!";
+          setTimeout(function () {
+            copy.classList.remove("is-copied");
+            copy.querySelector("span").textContent = "Copy";
+          }, 1800);
+        });
+      }
+    });
+  })();
+</script>
