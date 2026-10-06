@@ -159,11 +159,15 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 </div>
 <div class="pub-bibtex" hidden>
   <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
-  <pre><code>@inproceedings{zhang2025multiview,
-  title={Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis},
-  author={Zhang, Hao and Liu, Xiaoyun and Huang, Shuo and Yuan, Yonggui and Zhang, Daoqiang and Zhang, Li},
-  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
-  year={2025}
+  <pre><code>@InProceedings{ZhaHao_Multiview_MICCAI2025,
+  author = {Zhang, Hao AND Liu, Xiaoyun AND Huang, Shuo AND Yuan, Yonggui AND Zhang, Daoqiang AND Zhang, Li},
+  title = {{Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis}},
+  booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+  year = {2025},
+  publisher = {Springer Nature Switzerland},
+  volume = {LNCS 15971},
+  month = {September},
+  page = {532 -- 542}
 }</code></pre>
 </div>
 
