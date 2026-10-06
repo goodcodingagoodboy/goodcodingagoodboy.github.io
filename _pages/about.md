@@ -100,18 +100,6 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 <i>IEEE International Conference on Bioinformatics and Biomedicine (<span class="publication-accent">BIBM</span>), 2026</i>
 
-<div class="publication-actions">
-  <button type="button" class="pub-btn" data-bibtex-toggle aria-expanded="false" aria-label="Show LiFUSE BibTeX citation"><i class="fas fa-quote-right" aria-hidden="true"></i><span>BibTeX</span></button>
-</div>
-<div class="pub-bibtex" hidden>
-  <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
-  <pre><code>@inproceedings{zhang2026lifuse,
-  title={LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT},
-  author={Zhang, Hao and Huang, Yi and Liu, Wei and Gao, Yuan and Li, Zeju and Xu, Han and Shi, Yu and Zhang, Ling and Yan, Ke},
-  booktitle={2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  year={2026}
-}</code></pre>
-</div>
 
   </div>
 </div>
