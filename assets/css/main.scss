@@ -447,3 +447,35 @@ a:active {
         padding: 2.1rem .8rem .75rem;
     }
 }
+
+/* Larger, more spacious publication controls. */
+.publication-actions {
+    gap: .6rem;
+    margin-top: .75rem;
+}
+
+.paper-box-text a.pub-btn,
+.paper-box-text a.pub-btn:visited,
+.paper-box-text a.pub-btn:hover,
+.paper-box-text a.pub-btn:active,
+.paper-box-text a.pub-btn:focus {
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+}
+
+.pub-btn {
+    gap: .38rem;
+    padding: .22rem .7rem;
+    font-size: .84rem;
+    line-height: 1.45;
+}
+
+.pub-btn i {
+    font-size: .9rem;
+}
+
+.pub-bibtex-copy {
+    gap: .38rem;
+    padding: .18rem .62rem;
+    font-size: .78rem;
+}
