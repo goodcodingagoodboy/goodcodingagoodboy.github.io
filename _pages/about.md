@@ -83,7 +83,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 # Publications
 
-<div class="publication-note"><sup>*</sup>: First Author, <sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>: Corresponding Author(s)</div>
+<div class="publication-note"><sup>*</sup>: First Author, <sup class="corresponding-author" title="Corresponding author">✉</sup>: Corresponding Author(s)</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -96,12 +96,22 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT**
 
-<b>Hao Zhang</b><sup>*</sup>, Yi Huang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Wei Liu, Yuan Gao, Zeju Li, Han Xu, Yu Shi, Ling Zhang, and Ke Yan
+<b>Hao Zhang</b><sup>*</sup>, Yi Huang<sup class="corresponding-author" title="Corresponding author">✉</sup>, Wei Liu, Yuan Gao, Zeju Li, Han Xu, Yu Shi, Ling Zhang, and Ke Yan
 
 <i>IEEE International Conference on Bioinformatics and Biomedicine (<span class="publication-accent">BIBM</span>), 2026</i>
 
 <div class="publication-actions">
   <a class="pub-btn" href="https://arxiv.org/abs/2610.18243"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+  <button type="button" class="pub-btn" data-bibtex-toggle aria-expanded="false" aria-label="Show LiFUSE BibTeX citation"><i class="fas fa-quote-right" aria-hidden="true"></i><span>BibTeX</span></button>
+</div>
+<div class="pub-bibtex" hidden>
+  <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
+  <pre><code>@InProceedings{ZhaHao_LiFUSE_BIBM2026,
+  author = {Zhang, Hao AND Huang, Yi AND Liu, Wei AND Gao, Yuan AND Li, Zeju AND Xu, Han AND Shi, Yu AND Zhang, Ling AND Yan, Ke},
+  title = {{LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT}},
+  booktitle = {Proceedings of the 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year = {2026}
+}</code></pre>
 </div>
 
   </div>
@@ -118,7 +128,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **Graph-level Contrastive Learning with Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis Using rs-fMRI**
 
-<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author">✉</sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author">✉</sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author">✉</sup>
 
 <i>Neural Networks, 2026</i>
 
@@ -151,7 +161,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis**
 
-<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author">✉</sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author">✉</sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author">✉</sup>
 
 <i>Medical Image Computing and Computer Assisted Intervention (<span class="publication-accent">MICCAI</span>), 2025 · <span class="publication-accent">Early Accept</span></i>
 
