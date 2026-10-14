@@ -482,9 +482,12 @@ a:active {
 /* Corresponding-author envelope marker used in publication lists. */
 .corresponding-author {
     display: inline-block;
-    margin-left: .12em;
-    color: #1f6feb;
-    font-size: .72em;
+    margin-left: .08em;
+    color: #333;
+    font-family: inherit;
+    font-size: .56em;
+    font-style: normal;
+    font-weight: 400;
     line-height: 1;
     vertical-align: super;
 }
