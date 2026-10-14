@@ -108,7 +108,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
   <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
   <pre><code>@InProceedings{zhang2026lifuse,
   author = {Zhang, Hao AND Huang, Yi AND Liu, Wei AND Gao, Yuan AND Li, Zeju AND Xu, Han AND Shi, Yu AND Zhang, Ling AND Yan, Ke},
-  title = {{LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT}},
+  title = {LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT},
   booktitle = {Proceedings of the 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year = {2026}
 }</code></pre>
@@ -174,7 +174,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
   <button type="button" class="pub-bibtex-copy" data-bibtex-copy><i class="fas fa-copy" aria-hidden="true"></i><span>Copy</span></button>
   <pre><code>@InProceedings{zhang2025multi,
   author = {Zhang, Hao AND Liu, Xiaoyun AND Huang, Shuo AND Yuan, Yonggui AND Zhang, Daoqiang AND Zhang, Li},
-  title = {{Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis}},
+  title = {Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis},
   booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
   year = {2025},
   publisher = {Springer Nature Switzerland},
