@@ -478,3 +478,13 @@ a:active {
     padding: .18rem .62rem;
     font-size: .78rem;
 }
+
+/* Corresponding-author envelope marker used in publication lists. */
+.corresponding-author {
+    display: inline-block;
+    margin-left: .12em;
+    color: #1f6feb;
+    font-size: .72em;
+    line-height: 1;
+    vertical-align: super;
+}
