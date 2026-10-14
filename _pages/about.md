@@ -83,7 +83,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 # Publications
 
-<div class="publication-note"><sup>*</sup>: First Author, <sup>†</sup>: Corresponding Author(s)</div>
+<div class="publication-note"><sup>*</sup>: First Author, <sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>: Corresponding Author(s)</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -96,10 +96,13 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT**
 
-<b>Hao Zhang</b><sup>*</sup>, Yi Huang, Wei Liu, Yuan Gao, Zeju Li<sup>†</sup>, Han Xu<sup>†</sup>, Yu Shi<sup>†</sup>, Ling Zhang<sup>†</sup>, and Ke Yan<sup>†</sup>
+<b>Hao Zhang</b><sup>*</sup>, Yi Huang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Wei Liu, Yuan Gao, Zeju Li, Han Xu, Yu Shi, Ling Zhang, and Ke Yan
 
 <i>IEEE International Conference on Bioinformatics and Biomedicine (<span class="publication-accent">BIBM</span>), 2026</i>
 
+<div class="publication-actions">
+  <a class="pub-btn" href="https://arxiv.org/abs/2610.18243"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+</div>
 
   </div>
 </div>
@@ -115,7 +118,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **Graph-level Contrastive Learning with Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis Using rs-fMRI**
 
-<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan<sup>†</sup>, Daoqiang Zhang<sup>†</sup>, and Li Zhang<sup>†</sup>
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yue Ma, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
 
 <i>Neural Networks, 2026</i>
 
@@ -148,7 +151,7 @@ I welcome opportunities to collaborate on medical agents, multimodal learning, a
 
 **Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis**
 
-<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yonggui Yuan<sup>†</sup>, Daoqiang Zhang<sup>†</sup>, and Li Zhang<sup>†</sup>
+<b>Hao Zhang</b><sup>*</sup>, Xiaoyun Liu, Shuo Huang, Yonggui Yuan<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Daoqiang Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, and Li Zhang<sup class="corresponding-author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
 
 <i>Medical Image Computing and Computer Assisted Intervention (<span class="publication-accent">MICCAI</span>), 2025 · <span class="publication-accent">Early Accept</span></i>
 
